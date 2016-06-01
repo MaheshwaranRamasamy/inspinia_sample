@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://gitlab.anpi.com/mramasamy/inspinia_sample"
+    "url": "git+https://github.com/MaheshwaranRamasamy/inspinia_sample"
   },
   "keywords": [
     "css",
@@ -20,7 +20,7 @@
   "author": "MaheshRamasamy",
   "license": "ISC",
   "bugs": {
-    "url": "https://gitlab.anpi.com/mramasamy/inspinia_sample/issues"
+    "url": "https://github.com/MaheshwaranRamasamy/inspinia_sample/issues"
   },
-  "homepage": "https://gitlab.anpi.com/mramasamy/inspinia_sample#readme"
+  "homepage": "https://github.com/MaheshwaranRamasamy/inspinia_sample#readme"
 } 

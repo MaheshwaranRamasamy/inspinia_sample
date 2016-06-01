@@ -7,7 +7,7 @@ Package.describe({
   name: 'inspinia_sample',  // http://atmospherejs.com/twbs/bootstrap
   summary: 'The most popular front-end framework for developing responsive, mobile first projects on the web.',
   version: '3.3.6',
-  git: 'https://gitlab.anpi.com/mramasamy/inspinia_sample'
+  git: 'https://github.com/MaheshwaranRamasamy/inspinia_sample'
 });
 
 Package.onUse(function (api) {
