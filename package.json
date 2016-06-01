@@ -1,0 +1,26 @@
+{
+  "name": "inspinia_sample",
+  "version": "1.0.0",
+  "description": "the template for ANPI projects",
+  "main": "dist/js/inspinia.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://gitlab.anpi.com/mramasamy/inspinia_sample"
+  },
+  "keywords": [
+    "css",
+    "js",
+    "responsive",
+    "front-end",
+    "web"
+  ],
+  "author": "MaheshRamasamy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://gitlab.anpi.com/mramasamy/inspinia_sample/issues"
+  },
+  "homepage": "https://gitlab.anpi.com/mramasamy/inspinia_sample#readme"
+} 
